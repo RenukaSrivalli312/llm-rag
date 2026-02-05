@@ -103,13 +103,3 @@ HF_MODEL = "mistralai/Mistral-7B-Instruct"  # Change to your preferred model
   ```bash
   streamlit run app.py
   ```
-
----
-
-## 📜 License
-This project is **open-source** under the GPL-3.0 License.
-
----
-
-## 👨‍💻 Author
-Developed by [Shubham Mandowara](https://github.com/shubhammandowara). Contributions are welcome! 😊🚀
